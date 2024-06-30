@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Banyaphon kongtham</h1>
 <h3 align="center">I am currently studying Computer Science at Chulalongkorn University.</h3>
 
@@ -9,9 +11,11 @@
 </div>  
 
 ## Github stats
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 width=400  align="center" src="https://github-readme-stats.vercel.app/api?username=bypkt-bk&show_icons=true&theme=rose_pine" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 width=382 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bypkt-bk&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=rose_pine" />
 </a>
+</div>
