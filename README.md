@@ -11,7 +11,7 @@
 </p>
 
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 <p align="center">
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=bypkt-bk&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
