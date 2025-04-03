@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1341120617533018146/1357288307729498223/logo-B.png?ex=67efa8bd&is=67ee573d&hm=7f0211a4fb78140b2daead60f69ec870e161d92d61377df698a142157240d181&" width="64"/>
+  <img src="https://cdn.discordapp.com/attachments/1357314632603140147/1357314959650062408/logo-B.png?ex=67efc190&is=67ee7010&hm=71207c955e2d4866cdd9745f74634633a05902fd58366a8d60072f8e82ac7fd7&" width="64"/>
 </p>
 
 <h1 align="center">I'm Banyaphon Kongtham</h1>
